@@ -12,7 +12,7 @@ The prize distribution will be as follows:
 - Install requests and psutil
     pip install requests
     pip install psutil
-- Download hashtopolis agent
+- Download hashtopolis agent http://hashme.ddns.net/agents.php?download=1
 - Run hashtopolis agent.
   Url=http://hashme.ddns.net/api/server.php
   Voucher=start
