@@ -5,6 +5,7 @@ This project has been created to rescue lost wallets with the strength of the co
 The prize distribution will be as follows:
 
 25% server
+
 75% server users (based on percentage of passwords tested)
 
 # Requirements
