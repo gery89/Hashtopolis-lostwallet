@@ -11,7 +11,9 @@ The prize distribution will be as follows:
 # Requirements
 - Download and install python
 - Install requests and psutil
+
     pip install requests
+    
     pip install psutil
 - Download hashtopolis agent http://hashme.ddns.net/agents.php?download=1
 - Run hashtopolis agent.
