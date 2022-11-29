@@ -6,7 +6,9 @@ The prize distribution will be as follows:
 
 25% server
 
-75% server users (based on percentage of passwords tested)
+25% Password Finder
+
+50% server users (based on percentage of passwords tested)
 
 # Requirements
 - Download and install python
