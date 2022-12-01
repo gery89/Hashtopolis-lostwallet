@@ -10,6 +10,9 @@ The prize distribution will be as follows:
 
 50% server users (based on percentage of passwords tested)
 
+![Sin título](https://user-images.githubusercontent.com/22924493/205108177-78a951b9-2550-41c5-b687-be5d33cddbf3.jpg)
+
+
 # Requirements
 - Download and install python
 - Install requests and psutil
