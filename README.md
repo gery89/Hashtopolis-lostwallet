@@ -22,16 +22,16 @@ The prize distribution will be as follows:
     pip install psutil
 - Download hashtopolis agent 
 
-     http://207.188.171.98/agents.php?download=1
+     http://hashme.ddns.net/agents.php?download=1
      
 - Run hashtopolis agent:
 
-  http://207.188.171.98/api/server.php
+  http://hashme.ddns.net/api/server.php
   
   start
   
   
-  python hashtopolis.zip --url http:/207.188.171.98/api/server.php --voucher start
+  python hashtopolis.zip --url http://hashme.ddns.net/api/server.php --voucher start
 
 
 # Contact
