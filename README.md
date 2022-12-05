@@ -1,4 +1,4 @@
-# Hastopolis-lostwallet
+# Hashtopolis-lostwallet
 
 This project has been created to rescue lost wallets with the strength of the community.
 
