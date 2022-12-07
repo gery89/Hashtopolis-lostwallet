@@ -32,6 +32,14 @@ The prize distribution will be as follows:
   
   
   python hashtopolis.zip --url http://hashme.ddns.net/api/server.php --voucher start
+  
+  
+# Web Server
+
+http://hashme.ddns.net
+
+Username:user
+Password:user
 
 
 # Contact
